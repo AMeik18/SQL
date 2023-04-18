@@ -1,6 +1,6 @@
 # SQL
 
-Please see below examples of previous work completed using SQL and Tableau
+Please see below examples of previous work completed using SQL
 
 
 | **Location** | **Description** | **Activities** |
